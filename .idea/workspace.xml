@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a73f61b4-7a42-472e-a9d0-f6d415ea3398" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/taller/src/main/java/com/grupo6/BotPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/taller/src/main/java/com/grupo6/Choice.java" beforeDir="false" afterPath="$PROJECT_DIR$/taller/src/main/java/com/grupo6/ChoiceTypes/Choice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taller/src/main/java/com/grupo6/HumanPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/taller/src/main/java/com/grupo6/Paper.java" beforeDir="false" afterPath="$PROJECT_DIR$/taller/src/main/java/com/grupo6/ChoiceTypes/Paper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taller/src/main/java/com/grupo6/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/taller/src/main/java/com/grupo6/PlayerClass/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taller/src/main/java/com/grupo6/RPSgame.java" beforeDir="false" afterPath="$PROJECT_DIR$/taller/src/main/java/com/grupo6/RPSgame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taller/src/main/java/com/grupo6/Rock.java" beforeDir="false" afterPath="$PROJECT_DIR$/taller/src/main/java/com/grupo6/ChoiceTypes/Rock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taller/src/main/java/com/grupo6/Scissor.java" beforeDir="false" afterPath="$PROJECT_DIR$/taller/src/main/java/com/grupo6/ChoiceTypes/Scissor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taller/target/classes/com/grupo6/BotPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/taller/target/classes/com/grupo6/BotPlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taller/target/classes/com/grupo6/Choice.class" beforeDir="false" afterPath="$PROJECT_DIR$/taller/target/classes/com/grupo6/Choice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taller/target/classes/com/grupo6/HumanPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/taller/target/classes/com/grupo6/HumanPlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taller/target/classes/com/grupo6/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/taller/target/classes/com/grupo6/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taller/target/classes/com/grupo6/Paper.class" beforeDir="false" afterPath="$PROJECT_DIR$/taller/target/classes/com/grupo6/Paper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taller/target/classes/com/grupo6/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/taller/target/classes/com/grupo6/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taller/target/classes/com/grupo6/RPSgame.class" beforeDir="false" afterPath="$PROJECT_DIR$/taller/target/classes/com/grupo6/RPSgame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taller/target/classes/com/grupo6/Rock.class" beforeDir="false" afterPath="$PROJECT_DIR$/taller/target/classes/com/grupo6/Rock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taller/target/classes/com/grupo6/Scissor.class" beforeDir="false" afterPath="$PROJECT_DIR$/taller/target/classes/com/grupo6/Scissor.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="30zIJE3zy25SKdG3Qmixa2x9a2c" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a73f61b4-7a42-472e-a9d0-f6d415ea3398" name="Changes" comment="" />
+      <created>1754623901104</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754623901104</updated>
+    </task>
+    <servers />
+  </component>
+</project>

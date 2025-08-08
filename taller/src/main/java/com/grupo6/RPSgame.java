@@ -1,8 +1,12 @@
 package com.grupo6;
 
+import com.grupo6.ChoiceStrategies.*;
+import com.grupo6.ChoiceTypes.Choice;
+import com.grupo6.PlayerClass.Player;
+
 public class RPSgame {
-    Player p1 = new HumanPlayer();
-    Player p2 = new BotPlayer();
+    Player p1 = new Player(new PlayerChoiceStrategy());
+    Player p2 = new Player(new BotChoiceStrategy());
     boolean gameWon = false;
     int roundsPlayed = 0;
     int draws = 0;

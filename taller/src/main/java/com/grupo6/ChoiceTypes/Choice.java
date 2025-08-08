@@ -1,4 +1,4 @@
-package com.grupo6;
+package com.grupo6.ChoiceTypes;
 
 import java.util.List;
 import java.util.Random;
@@ -16,7 +16,7 @@ public abstract class Choice {
 
     public abstract String name();
 
-    public static Choice randomChoice() {
-        return Movs.get(random.nextInt(Movs.size());
+    public static Choice randomChoice(){
+        return Movs.get(random.nextInt(Movs.size()));
     }
 }

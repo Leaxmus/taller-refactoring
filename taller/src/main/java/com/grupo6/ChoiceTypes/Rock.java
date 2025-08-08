@@ -1,4 +1,4 @@
-package com.grupo6;
+package com.grupo6.ChoiceTypes;
 
 public class Rock extends Choice {
 

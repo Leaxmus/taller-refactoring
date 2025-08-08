@@ -1,0 +1,10 @@
+com\grupo6\ChoiceTypes\Scissor.class
+com\grupo6\PlayerClass\BotPlayer.class
+com\grupo6\ChoiceTypes\Rock.class
+com\grupo6\ChoiceStrategies\PlayerChoiceStrategy.class
+com\grupo6\PlayerClass\Player.class
+com\grupo6\ChoiceStrategies\BotChoiceStrategy.class
+com\grupo6\ChoiceStrategies\ChoiceStrategy.class
+com\grupo6\PlayerClass\HumanPlayer.class
+com\grupo6\ChoiceTypes\Choice.class
+com\grupo6\ChoiceTypes\Paper.class

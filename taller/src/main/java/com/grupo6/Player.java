@@ -1,5 +1,15 @@
 package com.grupo6;
 
-public class Player {
+public abstract class Player {
+    private int wins;
 
+    public int addWin() {
+        return wins++;
+    }
+
+    public int getWins() {
+        return wins;
+    }
+
+    public abstract Choice choose();
 }
